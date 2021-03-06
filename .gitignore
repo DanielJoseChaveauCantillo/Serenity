@@ -1,0 +1,3 @@
+serenity/*
+!serenity/src
+!serenity/build.gradle
